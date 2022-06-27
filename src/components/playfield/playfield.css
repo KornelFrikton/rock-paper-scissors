@@ -41,4 +41,6 @@
   border: 3px #1f5460 solid;
   box-shadow: 2px 2px 5px #589595;
   background-color: white;
+  color: black;
+  cursor: pointer;
 }
