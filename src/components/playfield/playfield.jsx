@@ -49,7 +49,7 @@ export default function Playfield() {
     } else if (userHand === "Paper" && compHand === "Scissors") {
       setWinner("You lose!");
     } else {
-      setWinner("It's draw");
+      setWinner("It's a draw");
     }
   };
 
