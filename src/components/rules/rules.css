@@ -1,0 +1,29 @@
+.rules {
+  padding: 20px;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  font-size: 1.8rem;
+}
+
+.rules img {
+  max-width: 50%;
+}
+
+.rulesList {
+  padding: 20px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  line-height: 5rem;
+  flex-wrap: wrap;
+  font-weight: 600;
+}
+
+.rulesList ul {
+  text-align: left;
+  list-style-type: disclosure-closed;
+}
+
+.rules h2 {
+  padding-bottom: 20px;
+}
